@@ -46,5 +46,5 @@
 <p>Accede desde aquí a las diferentes secciones de nuestro curso de una manera rápida y sencilla.</p>
 
 <ul>
-    <li><a href= "">Modulo 1</a></li>
+    <li><a href= "https://github.com/cdeveloping/transact-sql/tree/main/Modulo%201">Modulo 1</a></li>
 </ul>
