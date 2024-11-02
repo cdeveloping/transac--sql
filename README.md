@@ -1,5 +1,5 @@
 # Transact - SQL
-<hr>
+<hr> 
 ## Qué es Transact - SQL?
 <br>
 <p>Si nos vamos a la defenición oficial de Microsoft la respuestá sería la siguiente</p>
